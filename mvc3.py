@@ -1,4 +1,4 @@
-# https://www.kite.com/python/answers/how-to-write-a-list-to-a-file-in-python
+# https://makeapppie.com/2014/05/23/from-apple-to-raspberry-pi-a-mvc-template-for-tkinter/
 from tkinter import *
 import os
 import ipaddress
